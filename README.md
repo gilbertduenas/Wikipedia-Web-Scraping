@@ -4,3 +4,5 @@
   * https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population
   * https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_unemployment_rate
   * https://en.wikipedia.org/wiki/List_of_United_States_counties_by_per_capita_income
+  
+* Choropleth of the retrieved data https://plot.ly/~gilbertduenas/0/median-income-by-county/#/
