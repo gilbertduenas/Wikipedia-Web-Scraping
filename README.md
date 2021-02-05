@@ -6,3 +6,4 @@
   * https://en.wikipedia.org/wiki/List_of_United_States_counties_by_per_capita_income
   
 * Choropleth of the retrieved data https://plot.ly/~gilbertduenas/0/median-income-by-county/#/
+
